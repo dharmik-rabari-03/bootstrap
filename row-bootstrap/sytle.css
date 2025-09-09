@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100%;
+    border: 10px solid black;
+}
+.row{
+    height: 200px;
+    border: 5px solid red;
+}
+#row1{
+    height: 90px;
+}
+#row2{
+    height: 60px;
+}
+#row3{
+    height: 700px;
+}
+#row4{
+    height: 60px;
+}
+
